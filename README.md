@@ -1,2 +1,1 @@
-# Termux
-Termux codes
+# ChatBot ai on termux using Gemini 
